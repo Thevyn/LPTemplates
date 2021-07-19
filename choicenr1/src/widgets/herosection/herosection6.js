@@ -26,12 +26,12 @@ class Herosection6 extends Component {
         </div>
         <div className="col-12 col-lg-7 col-xl-6 order-lg-1">
           {/* Heading */}
-          <h6 className="border rounded-pill px-3 py-2 text-muted d-inline-block"> <span className="badge badge-pill badge-primary mr-3">New</span> Say Hello to all Bootsland</h6>
+          {/* <h6 className="border rounded-pill px-3 py-2 text-muted d-inline-block"> <span className="badge badge-pill badge-primary mr-3">New</span> Say Hello to all Bootsland</h6> */}
           <h1 className="display-4 mt-3">
-            Bootsland Creative <span className="text-primary font-w-5">App Landing</span> Page
+          Læring <span className="text-primary font-w-5">Moth</span> mestring
                       </h1>
           {/* Text */}
-          <p className="lead text-muted">Build a Beautiful, Clean &amp; Modern Design website with flexible Bootstrap components.</p>
+          {/* <p className="lead text-muted">Build a Beautiful, Clean &amp; Modern Design website with flexible Bootstrap components.</p> */}
           {/* Buttons */} <Link to="/" className="btn btn-primary shadow mr-1">
             Download
                       </Link>

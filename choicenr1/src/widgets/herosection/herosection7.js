@@ -12,17 +12,20 @@ class Herosection7 extends Component {
         <div className="col-12 col-lg-7 col-xl-6 order-lg-1">
           {/* Heading */}
           <h1 className="display-4 mt-3">
-            Download the app and start your journey now.
-                      </h1>
+          Læring <span className="text-primary font-w-5">Moth</span> mestring
+          </h1>
+          {/* <h1 className="display-4 mt-3">
+          Alle fortjener å lykkes med læring
+          </h1> */}
           {/* Text */}
-          <p className="lead text-muted">Build a Beautiful, Clean &amp; Modern Design website with flexible Bootstrap components.</p>
+          {/* <p className="lead text-muted">Build a Beautiful, Clean &amp; Modern Design website with flexible Bootstrap components.</p> */}
           {/* Buttons */}
           <Link to="/" className="btn btn-primary text-white text-left mr-1"> <i className="la la-apple mr-2 ic-2x d-inline-block" />
-            <div className="d-inline-block"> <small className="d-block">Available On The</small>
+            <div className="d-inline-block"> <small className="d-block">Snart tilgjengelig på</small>
                       App Store</div>
           </Link>
           <Link to="/" className="btn btn-dark text-white text-left"> <i className="la la-android mr-2 ic-2x d-inline-block" />
-            <div className="d-inline-block"> <small className="d-block">Android App On</small>
+            <div className="d-inline-block"> <small className="d-block">Snart tilgjengelig på</small>
                       Google Play</div>
           </Link>
         </div>
